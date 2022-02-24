@@ -1,0 +1,5 @@
+mljar-mercury
+ipywidgets
+pandas
+matplotlib
+seaborn
